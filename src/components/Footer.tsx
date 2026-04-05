@@ -1,8 +1,8 @@
-import { Linkedin, Mail, ArrowUp } from 'lucide-react';
+import { Linkedin, Mail, ArrowUp, Github } from 'lucide-react';
 
 const Footer = () => {
   const socialLinks = [
-    { icon: Linkedin, href: 'https://linkedin.com/in/bhaven-naik', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/bhaven123', label: 'GitHub' },
     { icon: Linkedin, href: 'https://linkedin.com/in/bhaven-naik', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:naikbhaven11@gmail.com', label: 'Email' },
   ];
